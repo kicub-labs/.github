@@ -1,7 +1,7 @@
 # An R&D keyboard startup
 
 ## Objective:
-Design and distribute, and deliver a unique and accessible mechanical keyboard experience
+Design, distribute, and deliver a unique mechanical keyboard experience
 
 ## Tenets:
 - Be weird
@@ -9,7 +9,7 @@ Design and distribute, and deliver a unique and accessible mechanical keyboard e
 
 - Embrance and challenge current design methodologies
   - Understand the designs that have come before, while simulatenously being able to innovate
-  - Embrace the relatively new medium of 3D printing, and adapt to the medium in ways that produces reproducible, high quality cases
+  - Embrace the new medium of 3D printing, and adapt to the medium in ways that produces reproducible, high quality cases
 
 - Foster a culture of innovation and collaboration
   - Designs are open sourced to encourage learning, modifications, and contibutions
